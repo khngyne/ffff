@@ -16,7 +16,25 @@
             name:"Accessible Two Queen Beds",
             img : "6.jpg",
             price:2500000,
-        }
+        },
+        {
+            id:"SP4",
+            name:"King Bed",
+            img : "5.jpg",
+            price:1500000,
+        },
+        {
+            id:"SP2",
+            name:"King Bed",
+            img : "5.jpg",
+            price:1500000,
+        },
+        {
+            id:"SP2",
+            name:"King Bed",
+            img : "5.jpg",
+            price:1500000,
+        },
         // {
         //     id:"SP4",
         //     name:"Áo dài hiện đại",
